@@ -115,7 +115,7 @@
       <label>1 - Finger Tracking:</label>
     <br>
     <br>
-      <img src="https://github.com/EESH-MISHRA/Finger-Track-Writing-/blob/main/demonstration.gif" alt="Project 1 Image">
+      <img src="https://github.com/EESH-MISHRA/Finger-Track-Writing-/blob/main/demonstration.gif" alt="Project 1 gif">
   </div>
   <br>
 
@@ -132,7 +132,7 @@
       <label>3 - Quiz Game:</label>
     <br>
     <br>
-      <img src="" alt="Project 2 GIF">
+      <img src="https://github.com/EESH-MISHRA/Quiz-Game/blob/main/assets/page_1.png" alt="Project 3 " width="400" height="300">
   </div>
 </body>
 </html>
