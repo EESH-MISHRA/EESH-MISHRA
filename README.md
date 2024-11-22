@@ -112,19 +112,24 @@
 
   <!-- Project with Image -->
   <div class="project">
-      <label>Project 1:</label>
+      <label>1 - Finger Tracking:</label>
+    <br>
+    <br>
       <img src="https://github.com/EESH-MISHRA/Finger-Track-Writing-/blob/main/demonstration.gif" alt="Project 1 Image">
   </div>
+  <br>
 
   <!-- Project with GIF -->
   <div class="project">
-      <label>Project 2:</label>
-        <img src="https://example.com/image2.gif" alt="Project 2 GIF">
+      <label>2 - Hand Tracker:</label>
+    <br>
+    <br>
+        <img src="https://github.com/EESH-MISHRA/Hand-Tracker/blob/main/demonstration.gif" alt="Project 2 GIF">
     </div>
 
   <!-- Project with Video -->
   <div class="project">
-      <label>Project 3:</label>
+      <label>3 - :</label>
       <video controls>
           <source src="https://example.com/video.mp4" type="video/mp4">
           Your browser does not support the video tag.
