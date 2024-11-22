@@ -113,7 +113,7 @@
   <!-- Project with Image -->
   <div class="project">
       <label>Project 1:</label>
-      <img src="Finger-Track-Writing-/demonstration.gif" alt="Project 1 Image">
+      <img src="https://github.com/EESH-MISHRA/Finger-Track-Writing-/blob/main/demonstration.gif" alt="Project 1 Image">
   </div>
 
   <!-- Project with GIF -->
