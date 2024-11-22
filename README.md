@@ -65,5 +65,71 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EESH-MISHRA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EESH-MISHRA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 ###
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trending Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+        }
+        .project {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+            padding: 20px;
+            width: 80%;
+            max-width: 800px;
+            display: flex;
+            align-items: center;
+        }
+        .project label {
+            font-weight: bold;
+            margin-right: 20px;
+        }
+        .project img, .project video {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        .project video {
+            width: 300px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Trending Projects</h1>
+
+  <!-- Project with Image -->
+  <div class="project">
+      <label>Project 1:</label>
+      <img src="https://example.com/image1.jpg" alt="Project 1 Image">
+  </div>
+
+  <!-- Project with GIF -->
+  <div class="project">
+      <label>Project 2:</label>
+        <img src="https://example.com/image2.gif" alt="Project 2 GIF">
+    </div>
+
+  <!-- Project with Video -->
+  <div class="project">
+      <label>Project 3:</label>
+      <video controls>
+          <source src="https://example.com/video.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+      </video>
+  </div>
+</body>
+</html>
+
