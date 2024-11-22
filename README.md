@@ -126,14 +126,13 @@
     <br>
         <img src="https://github.com/EESH-MISHRA/Hand-Tracker/blob/main/demonstration.gif" alt="Project 2 GIF">
     </div>
-
+    <br>
   <!-- Project with Video -->
   <div class="project">
-      <label>3 - :</label>
-      <video controls>
-          <source src="https://example.com/video.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-      </video>
+      <label>3 - Quiz Game:</label>
+    <br>
+    <br>
+      <img src="" alt="Project 2 GIF">
   </div>
 </body>
 </html>
