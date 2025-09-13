@@ -4,41 +4,41 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eesh-mishra-200a06328/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/the_eesh_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
 </div>
 
 ###
@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
+<img align="right" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ###
 
@@ -62,78 +62,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EESH-MISHRA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EESH-MISHRA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EESH-MISHRA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EESH-MISHRA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 ###
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Trending Projects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin: 0;
-            padding: 20px;
-        }
-        .project {
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
-            padding: 20px;
-            width: 80%;
-            max-width: 800px;
-            display: flex;
-            align-items: center;
-        }
-        .project label {
-            font-weight: bold;
-            margin-right: 20px;
-        }
-        .project img, .project video {
-            max-width: 100%;
-            border-radius: 10px;
-        }
-        .project video {
-            width: 300px;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <h1>Trending Projects</h1>
+---
 
-  <!-- Project with Image -->
-  <div class="project">
-      <label>1 - Finger Tracking:</label>
-    <br>
-    <br>
-      <img src="https://github.com/EESH-MISHRA/Finger-Track-Writing-/blob/main/demonstration.gif" alt="Project 1 gif">
-  </div>
-  <br>
+### Trending Projects
 
-  <!-- Project with GIF -->
-  <div class="project">
-      <label>2 - Hand Tracker:</label>
-    <br>
-    <br>
-        <img src="https://github.com/EESH-MISHRA/Hand-Tracker/blob/main/demonstration.gif" alt="Project 2 GIF">
-    </div>
-    <br>
-  <!-- Project with Video -->
-  <div class="project">
-      <label>3 - Quiz Game:</label>
-    <br>
-    <br>
-      <img src="https://github.com/EESH-MISHRA/Quiz-Game/blob/main/assets/page_1.png" alt="Project 3 " width="400" height="300">
-  </div>
-</body>
-</html>
+| Project | Image |
+| :--- | :--- |
+| **1 - Finger Tracking** | <br><br> <img src="https://github.com/EESH-MISHRA/Finger-Track-Writing-/blob/main/demonstration.gif?raw=true" alt="Finger Tracking GIF" width="400"/> <br><br> |
+| **2 - Hand Tracker** | <br><br> <img src="https://github.com/EESH-MISHRA/Hand-Tracker/blob/main/demonstration.gif?raw=true" alt="Hand Tracker GIF" width="400"/> <br><br> |
+| **3 - Quiz Game** | <br><br> <img src="https://github.com/EESH-MISHRA/Quiz-Game/blob/main/assets/page_1.png?raw=true" alt="Quiz Game" width="400"/> <br><br> |
 
+---
